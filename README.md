@@ -15,7 +15,11 @@ Get query_id or user=
 Paste di token.txt
 
 Features
+
 Auto Buy
+
 Auto Claim daily
+
 Auto Merge
+
 Multi Account
